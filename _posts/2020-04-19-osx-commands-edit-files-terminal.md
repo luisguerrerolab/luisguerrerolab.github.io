@@ -1,28 +1,32 @@
 ---
 layout: 		post
 title:  		"Find, replace and delete text from files using the terminal in OS X"
-date:   		2020-04-19 13:38:25 -0500
+date:   		2020-04-19 19:28:00 -0500
 categories: [tech guides, terminal]
-published:  false
+published:  true
 ---
 
-**How would you change the company name included in multiple files, without opening one by one?**
+**How would you change a block of text included in multiple files, without opening one by one?**
 
-That was a question that my employer asked me in my first job interview. That one has stuck with me because, as programmer, editing files is something I do quite often and until then I had never wondered how I could optimize it.
+That was a question my employer asked me in my first job interview. That one has stuck with me because, as programmer, editing files is something I do quite often and until then I had never wondered how I could optimize it.
 
-The technical sophistication[^1] I have gained along these years led me to discover a handful of powerful and easy commands to perform most common file editing tasks.
+The technical sophistication[^1] I have gained along these years led me to discover these powerful commands to perform most common file editing tasks.
 
 ## Find and replace
 
-Find a specific word or sentence in multiple files across a folder and replace it with other one recursively:
+To find a specific word or sentence that could appear in multiple files inside a directory and replace it with other one recursively, run:
 
 ```shell
-$ grep -r ’old string' folder/* | xargs sed -i '' ’s/old string/new string/g'
+$ grep -r ’old string' directory/* | xargs sed -i '' ’s/old string/new string/g'
 ```
 
-## Remove a single line
+You can run this command from the root directory or inside specific folders, by changing the `directory/*` value.
 
-Remove an entire line in files with the same extension across a directory that match the `sed` pattern:
+This command is particularly helpful when the name of a company, a person or even a database has changed, but the files that contain it are super large, making it complicated for a visual editor to apply the change.
+
+## Remove a line
+
+Remove an entire line that may appear in many files with the same extension across a directory:
 
 ```shell
 $ find . -type f -iname \*.cs -execdir sed -i '' ‘/string to match/d' {} \;
@@ -30,7 +34,7 @@ $ find . -type f -iname \*.cs -execdir sed -i '' ‘/string to match/d' {} \;
 
 ## Find text in multiple files
 
-Find the line across all the files in a directory that matches the pattern and return the filename:
+For a given word or sentence, find all the files in a directory that contain it and print the name and the entire line where the text was found:
 
 ```bash
 $ find . -name "*.csproj" -exec grep --color=auto 'string to match' {} \; -print
@@ -51,7 +55,7 @@ $ find . -name "*.cs" -exec grep --color=auto 'using System.IO' {} \; -print
 
 • • •
 
-Each command has extra flags that can make it even more powerful. Let your technical sophistication guide you.
+Each command has extra flags that can make it even more powerful. Stay curious and let your technical sophistication guide you.
 
 
 ---
