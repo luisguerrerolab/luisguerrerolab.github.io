@@ -1,10 +1,17 @@
 ---
-layout: 		post
-title:  		"Find, replace and delete text from files using the terminal in OS X"
-date:   		2020-04-19 19:28:00 -0500
+layout    : post
+title     : "Find, replace and delete text from files using the terminal in OS X"
+date      : 2020-04-19 19: 28: 00 -0500
 categories: [tech guides, terminal]
-published:  true
 ---
+
+To edit:
+
+- Section Find text in multiple files:
+    - Add a more concise description on what is the result of running this command
+    - Add extra details on how to exclude multiple paths - `-path -prune -o`
+    - How the results change after adding `-type d|f`
+    - What happens after removing the `-name` flag
 
 **How would you change a block of text included in multiple files, without opening one by one?**
 
