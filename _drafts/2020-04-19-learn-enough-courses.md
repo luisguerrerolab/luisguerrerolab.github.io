@@ -1,9 +1,8 @@
 ---
 layout    : post
 title     : "Learn Enough to Be Dangerous: My Experience"
-date      : 2020-04-19 19:28:00 -0500
+date      : 2020-05-10 18:00:00 -0500
 categories: []
-published : false
 ---
 
 ## El descubrimiento
