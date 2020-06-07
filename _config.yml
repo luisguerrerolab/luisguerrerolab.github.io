@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Luis Guerrero
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brain is for having ideas, not to store them. That's the mission of this blog.
+  Begin. Especially before you think you're ready.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: albertomsLG
