@@ -36,7 +36,7 @@ The command will do the work, but the caveat is that it will add a new line at t
 Option #2, my choice:
 
 ```shell
-LC_ALL=C find . -name \*.ext -exec grep -i --color=auto "text example" {} \; -exec sed -n -i '' '/using Conekta.Common.Exten/!p' {} \; -print
+LC_ALL=C find . -name \*.ext -exec grep -i --color=auto "text example" {} \; -exec sed -n -i '' '/text example/!p' {} \; -print
 ```
 
 The above command first verifies that files with the specified extension actually contain `text example` before moving to the part that deletes the line from them. This is the work-around I found make rid of the caveat in option #1.
@@ -70,7 +70,7 @@ using System.IO;
 With the visual confirmation ready, now you can be confident and run the command to delete that line from all those files:
 
 ```shell
-$ LC_ALL=C find . -name \*.ext -exec grep -i --color=auto "text example" {} \; -exec sed -n -i '' '/using System.IO;/!p' {} \; -print
+$ LC_ALL=C find . -name \*.ext -exec grep -i --color=auto "using System.IO;" {} \; -exec sed -n -i '' '/using System.IO;/!p' {} \; -print
 ```
 
 Each command has extra flags that can make it even more powerful. Stay curious and let your technical sophistication guide you.
