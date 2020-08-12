@@ -1,8 +1,8 @@
 ---
-layout    : post
-title     : "Mi experiencia aprendiendo Ruby con los cursos de Learn Enough"
-date      : 2020-05-10 18:00:00 -0500
-categories: []
+layout     : post
+title      : "Mi Experiencia Aprendiendo Ruby Con Los Cursos de Learn Enough"
+date       : 2020-08-11 18:00:00 -0500
+modified_at: 2020-08-11 21:50:00 -0500
 ---
 
 ## El Descubrimiento
