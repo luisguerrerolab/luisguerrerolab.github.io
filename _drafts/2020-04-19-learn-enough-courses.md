@@ -1,46 +1,51 @@
 ---
 layout    : post
-title     : "Learn Enough to Be Dangerous: My Experience"
+title     : "Mi experiencia aprendiendo Ruby con los cursos de Learn Enough"
 date      : 2020-05-10 18:00:00 -0500
 categories: []
 ---
 
-## El descubrimiento
+## El Descubrimiento
 
-A inicios del mes pasado decidí aprender a programar en Ruby de manera formal y comencé a buscar cursos que ofrecieran una guía completa, pero no exhaustiva, por todos los temas relevantes que un interesado en este lenguaje debería conocer. Mi objetivo final era aprender lo necesario en poco tiempo para construir Mr. Snowball, mi asistente financiero personal en forma de bot de Telegram.
+A inicios abril decidí aprender a programar en Ruby de manera formal y comencé a buscar cursos que ofrecieran una guía completa, pero no exhaustiva, de todos los temas relevantes que un interesado en este lenguaje debería conocer. **Mi objetivo final era aprender lo necesario en poco tiempo** para construir un bot de Telegram que funcionara como mi asistente personal financiero.
 
-Entre todas las opciones disponibles en Internet, la escuela que más pareció alinearse con mi objetivo fue Learn Enough, porque uno de sus ejes de enseñanza en sus cursos es "Everything we do is for real":
+Entre todas las opciones disponibles en Internet, la escuela que me pareció más alineada con mi objetivo fue [Learn Enough](https://www.learnenough.com), porque una parte de su filosofía de enseñanza es que desde el inicio, el estudiante conozca las herramientas usadas a diario por desarrolladores de software profesionales. Pensé que esta característica me ayudaría a reducir muchísimo la curva de aprendizaje en el ecosistema de Ruby.
 
-> Learn Enough is based on the idea that you **don’t have to learn everything to get started－you just have to learn enough to be dangerous**.
+Pero sin duda, ésta es la frase que me cuativó:
+
+> Learn Enough está basado en la idea de que **no tienes que aprender todo desde el comienzo—sólo tienes que aprender suficiente para ser peligroso**.
 
 _Para ser completamente honesto, creo que mis ganas de aprender se enamoraron con locura de ese eslogan y probablemente esa es la verdadera razón por la que decidí comprar los cursos de esta escuela._
 
-Mi experiencia con Learn Enough está basada en los dos cursos que completé en su plataforma: Ruby y Ruby on Rails (6ta edición).
+Mi experiencia con Learn Enough está basada en los dos cursos que completé en su plataforma:
 
-## El proceso
+- [Ruby](https://www.learnenough.com/ruby).
+- [Ruby on Rails (6ta edición)](https://www.learnenough.com/ruby-on-rails-6th-edition).
+
+## El Proceso
 
 Mi primer curso fue la introducción a Ruby. Desde la primera lección, Michael Hartl deja claro su estilo de enseñanza:
 
-- Notas  para expandir el contexto del tema en cuestión
-- Referencias históricas que enriquecen la base personal de conomiento
-- Notas filosóficas que preparan al estudiante con la actitud adecuada para enfrentar los próximos capítulos.
+- Muchas notas para expandir el contexto del tema en cuestión.
+- Referencias históricas que enriquecen la base personal de conomiento del estudiante.
+- Notas motivacionales que preparan al estudiante con la actitud adecuada para enfrentar los próximos capítulos.
 
+**Todos los ejemplos que ofrece cada lección pueden ser reproducidos completamente por el estudiante en un ambiente interactivo** (consola), que tanto Ruby como Rails tienen integrado. Esta característica me permitió aclarar los detalles oscuros de cada sección, que de pronto no me habían quedado claros en la primera lectura.
 
-Todos los ejemplos que el profesor ofrece en cada lección pueden ser reproducidos completamente por el estudiante en el ambiente interactivo (consola) que tanto Ruby como Rails tienen integrado. Esta característica me permitió aclarar detalles oscuros de cada sección, que de pronto no me habían quedado claros con la explicación textual.
+### Sofisticación Técnica
 
-### Technical sophistication
+Así define Michael Hartl la **sofisticación técnica** (technical sophistication):
 
-- Googling is OK
-- Being OK with moving forward without fully understand the content 
+> **La habilidad para resolver problemas técnicos por uno mismo**, incluyendo habilidades concretas como programación, así como también habilidades ambigüas como buscar en Google el mensaje de error y hasta reconocer cuando sólo basta con reiniciar.
 
-### Real artists ship
+Ese concepto me liberó de muchas cargas que llevo asociadas al perfeccionismo con el que siempre quiero realizar todo. Michael logró generar en mí el espíritu para tomar acción, incluso cuando no entiendo completamente el código que estoy adaptando. Él llama a este espíritu "**el sello clásico de calidad de la sofisticación técnica**".
 
-- A live project since the beginning: heroku, Git
-- Production-ready apps: AWS
-- RubyGems
+### Los Artistas de Verdad Entregan
 
-### When to test
+Los cursos están diseñados para que desde la primera lección entregues algo hacia el mundo. Ojo en que nadie mencionó algo _de valor_, sino únicamente _algo_. Esta característica también suma puntos a la experiencia y me motivó a continuar con el curso hasta el final. Cuando me frustraba por no entender el contenido de alguna sección, pensaba en que la recompensa de atravesar por esa dificultad sería ver mi trabajo expuesto públicamente. Como si cada esfuerzo fuera una pintura para colgar en mi galería de arte.
 
-## Los aprendizajes
+## Conclusión
 
+Tomar los cursos de Ruby y Ruby on Rails en Learn Enough fue como una aventura que se volvía más compleja y divertida a la vez conforme avanzaba en cada capítulo. **La educación e intelecto de Michael Hartl le han permitido crear contenido muy atractivo**, para que personas que buscan aumentar su conocimiento en programación logren terminar los cursos, **y que siembra la semilla de la curiosidad para continuar por cuenta propia**.
 
+[![Learn Enough Course Completed](https://www.learnenough.com/certificates/albertoms/ruby-tutorial.svg)](https://www.learnenough.com/certificates/albertoms) [![Learn Enough Course Completed](https://www.learnenough.com/certificates/albertoms/ruby-on-rails-6th-edition-tutorial.svg)](https://www.learnenough.com/certificates/albertoms)
