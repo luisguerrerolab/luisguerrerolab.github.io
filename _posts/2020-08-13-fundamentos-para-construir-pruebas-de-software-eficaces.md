@@ -1,6 +1,6 @@
 ---
 layout     : post
-title      : "Fundamentos Para Construir Pruebas de Código En ASP.NET Core"
+title      : "Fundamentos Para Construir Pruebas de Software Eficaces"
 date       : 2020-08-13 21:00:00 -0500
 ---
 
