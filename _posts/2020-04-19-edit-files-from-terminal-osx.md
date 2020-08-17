@@ -3,6 +3,8 @@ layout     : post
 title      : "Search, replace and delete text from files using the terminal in OS X"
 date       : 2020-04-19 19:28:00 -0500
 modified_at: 2020-06-06 18:50:00 -0500
+tags:
+- english
 ---
 
 **How would you replace text included in multiple files, without opening one by one?**

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Fresh start"
+title:  "Inicio Fresco"
 date:   2020-04-11 13:38:25 -0500
-categories: #
 ---
 
-## Hello, I'm Luis.
+## Hola. Soy Luis Guerrero.

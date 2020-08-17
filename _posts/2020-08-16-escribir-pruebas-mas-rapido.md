@@ -2,6 +2,9 @@
 layout:   post
 title:    "Escribir código de pruebas más rápido usando snippets en Visual Studio Code"
 date:    2020-08-16 15:00:00 -0500
+tags:
+- xunit
+- vscode
 ---
 
 Hace poco escribí el set de pruebas unitarias para la primera versión de un proyecto Web API, usando el framework xUnit. Un endpoint podría presentar diferentes escenarios y quería escribir una prueba para cada uno de ellos. Mi cabeza estaba muy enfocada, pero mis manos difícilmente le podían llevar el ritmo, porque tenía que recrear la estructura de un método de prueba una y otra vez.

@@ -2,6 +2,8 @@
 layout     : post
 title      : "Fundamentos Para Construir Pruebas de Software Eficaces"
 date       : 2020-08-13 21:00:00 -0500
+tags:
+- testing
 ---
 
 En este artículo quiero compartir las lecciones que aprendí construyendo el set de pruebas para el proyecto más reciente en el que trabajé.
