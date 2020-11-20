@@ -117,7 +117,7 @@ Tomar acción nos dará información valiosa que no hubiéramos obtenido en ning
 
 Entregar avances con frecuencia para comparar el resultado con la expectativa, es la cadencia que nos mantendrá enfocados e inspirados. Es el proceso de recarga natural de energía y motivación.
 
-Hacer entregas frecuentas también nos ayudará a reducir los cambios drásticos de requerimientos. Ese tiempo que ganaremos podemos usarlo para revisar más a fondo esos conceptos interesantes que descubrimos, pero que previamente decidimos dejar a un lado para enfocarnos en entregar valor.
+Hacer entregas frecuentes también nos ayudará a reducir los cambios drásticos de requerimientos. Ese tiempo que ganaremos podemos usarlo para revisar más a fondo esos conceptos interesantes que descubrimos, pero que previamente decidimos dejar a un lado para enfocarnos en entregar valor.
 
 Sin embargo, ninguna estrategia nos salvará de la posibilidad de recibir la noticia de que tenemos que empezar de cero. Quienes planean y diseñan el proyecto descubrieron una nueva dependencia o un requerimiento indispensable y tuvieron que rearmar la estrategia.
 
