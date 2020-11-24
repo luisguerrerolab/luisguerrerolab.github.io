@@ -16,7 +16,7 @@ Si también te identificas como perfeccionista, seguro estarás de acuerdo con a
 * Cualquier lista debe ser ordenada en orden alfabético.
 * Elegancia, orden y simplicidad son poesía y un regalo para los ojos.
 
-Por eso, decidir cuándo marcar una tarea como completada es una lucha que consume mucha energía, que debilita.
+Por todo eso, decidir cuándo marcar una tarea como completada es una lucha que consume mucha energía, que debilita.
 
 ## El perfeccionismo se disfraza de excelencia
 
@@ -28,7 +28,7 @@ Para entender esta idea, pongámonos en el lugar de quien espera un resultado po
 
 Digamos que somos personas súper ocupadas y no hemos tenido tiempo de hacer limpieza a fondo en casa desde hace un mes. Especialmente la cocina es la que pide a gritos que le pasemos un trapo. 
 
-Decidimos contratar a personal de limpieza por 5 horas para realizar ese trabajo. Lo recibimos, le indicamos el trabajo que queremos que haga y nos vamos confiados a dar un paseo. Cuando volvemos, el personal nos dice que su trabajo todavía no está completo y que necesita otro día para completar ese encargo. Con voz de orgullo, nos cuenta que invirtió mucho tiempo en nuestras macetas, porque se dio cuenta de que no estaban aprovechando toda la luz disponible en la casa. Por supuesto, se aseguró de que las plantas de sombra no reciban el sol directamente.
+Decidimos contratar a personal de limpieza por 5 horas para realizar ese trabajo. Lo recibimos, le indicamos el trabajo que queremos que haga y nos vamos confiados a atender nuestras prioridades. Cuando volvemos, el personal nos dice que su trabajo todavía no está completo y que necesita otro día para completar ese encargo. Con voz de orgullo, nos cuenta que invirtió mucho tiempo en nuestras macetas, porque se dio cuenta de que no estaban aprovechando toda la luz disponible en la casa. Por supuesto, se aseguró de que las plantas de sombra no reciban el sol directamente.
 
 ¿Hizo mal su trabajo? 
 
@@ -40,14 +40,15 @@ En la industria de tecnología y la construcción de startups, frenar el progres
 
 Jensen Harris, fundador y CTO en Textio, escribió sobre la poca importancia que debemos darle al código elegante cuando todavía no sabemos si nuestro producto tendrá éxito: 
 
-[insertar tweet y/o captura de pantalla]
+{:refdef: style="text-align: center;"}
+[![Screeshot of Jensen Harris tweet](/assets/img/tweet-jensen-harris-1.png)](https://twitter.com/jensenharris/status/1001662476893667329){:target="_blank"}
+{: refdef}
 
-[https://twitter.com/jensenharris/status/1001662476893667329](https://twitter.com/jensenharris/status/1001662476893667329?s=20)
+{:refdef: style="text-align: center;"}
+[![Screeshot of Jensen Harris tweet](/assets/img/tweet-jensen-harris-2.png)](https://twitter.com/jensenharris/status/1001662480332943360){:target="_blank"}
+{: refdef}
 
-
-[insertar tweet y/o captura de pantalla]
-
-[https://twitter.com/jensenharris/status/1001662480332943360](https://twitter.com/jensenharris/status/1001662480332943360?s=20)
+Usaré la analogía de un viajero para ilustrar la importancia de priorizar progreso y aprendizaje sobre crear obras perfectas cuando empezamos un proyecto.
 
 ## El viaje es la recompensa
 
@@ -163,3 +164,6 @@ En un entorno de cambio rápido y constante, la habilidad más importante que po
 
 > La **incompetencia estratégica** es decidir de forma consciente y proactiva las áreas que no importan y a las que robaremos tiempo, para dárselo a aquellas áreas que son fundamentales.
 
+¿Dejaste algo incompleto hoy porque no cumple tus estándares? ¿Es sólo para ti o alguien más espera resultados?
+
+Anota. Aprende. Avanza.
