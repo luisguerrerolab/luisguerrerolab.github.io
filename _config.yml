@@ -23,14 +23,29 @@ title: Luis Guerrero
 description: >- # this means to ignore newlines until "baseurl:"
   Comienza. Especialmente antes de creer que estás listo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: albertomsLG
-github_username:  albertoms
+url: "https://luisguerrerolab.com/" # the base hostname & protocol for your site, e.g. http://example.com
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Inicio
+    url: /index.html
+  - title: Sobre mí
+    url: /about
+
+social:
+  github: luisguerrerolab
+  twitter: luisguerrerolab
+  # email: brimaidesigns@gmail.com
+  linkedin: luisguerrerolab
+
+google_analytics: G-6YMQH26JZ2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
