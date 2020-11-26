@@ -74,4 +74,4 @@ plugins:
 
 # wor-around for issue https://github.com/jekyll/jekyll/issues/8114:
 # Jekyll shows the default value if a config value is not set by the user.
-ignore_theme_config: true
+# ignore_theme_config: true
