@@ -19,33 +19,38 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Luis Guerrero
-# email: your-email@example.com
+author:
+  name: Luis Guerrero
+  # email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Comienza. Especialmente antes de creer que estás listo.
+  Escribo sobre finanzas personales, productividad y desarrollo de software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luisguerrerolab.com/" # the base hostname & protocol for your site, e.g. http://example.com
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "/blog/page:num/"
+permalink: /blog/:title/
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
+show_excerpts: false # set to true to show excerpts on the homepage
 
-navigation:
-  - title: Inicio
-    url: /index.html
-  - title: Sobre mí
-    url: /about
-
-social:
-  github: luisguerrerolab
-  twitter: luisguerrerolab
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  # generate social links in footer
+  social_links:
+    twitter: luisguerrerolab
+    github: luisguerrerolab
   # email: brimaidesigns@gmail.com
-  linkedin: luisguerrerolab
+    linkedin: luisguerrerolab
 
 google_analytics: G-6YMQH26JZ2
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,3 +71,7 @@ google_analytics: G-6YMQH26JZ2
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# wor-around for issue https://github.com/jekyll/jekyll/issues/8114:
+# Jekyll shows the default value if a config value is not set by the user.
+ignore_theme_config: true
