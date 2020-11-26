@@ -21,7 +21,7 @@
 title: Luis Guerrero
 author:
   name: Luis Guerrero
-  # email:
+  # email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Escribo sobre finanzas personales, productividad y desarrollo de software.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -71,7 +71,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# wor-around for issue https://github.com/jekyll/jekyll/issues/8114:
-# Jekyll shows the default value if a config value is not set by the user.
-# ignore_theme_config: true
