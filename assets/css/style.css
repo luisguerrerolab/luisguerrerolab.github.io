@@ -1,3 +1,8 @@
+---
+---
+
+@import {{ site.theme }}
+
 /**
 * Responsive container for a video.
 * Thanks to Nathan Lam: https://github.com/nathancy/jekyll-embed-video

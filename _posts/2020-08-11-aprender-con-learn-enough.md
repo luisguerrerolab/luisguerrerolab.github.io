@@ -50,4 +50,6 @@ Los cursos están diseñados para que desde la primera lección entregues algo h
 
 Tomar los cursos de Ruby y Ruby on Rails en Learn Enough fue como una aventura que se volvía más compleja y divertida a la vez conforme avanzaba en cada capítulo. **La educación e intelecto de Michael Hartl le han permitido crear contenido muy atractivo**, para que personas que buscan aumentar su conocimiento en programación logren terminar los cursos, **y que siembra la semilla de la curiosidad para continuar por cuenta propia**.
 
-[![Learn Enough Course Completed](https://www.learnenough.com/certificates/albertoms/ruby-tutorial.svg)](https://www.learnenough.com/certificates/albertoms) [![Learn Enough Course Completed](https://www.learnenough.com/certificates/albertoms/ruby-on-rails-6th-edition-tutorial.svg)](https://www.learnenough.com/certificates/albertoms)
+Mis certificados:
+
+<a href="https://www.learnenough.com/certificates/luisguerrerolab"><img src="https://www.learnenough.com/certificates/luisguerrerolab/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/luisguerrerolab"><img src="https://www.learnenough.com/certificates/luisguerrerolab/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>

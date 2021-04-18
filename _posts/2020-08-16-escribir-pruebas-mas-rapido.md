@@ -63,7 +63,7 @@ Eso es todo.
 Para probarlo, abre una de tus clases de pruebas (en realidad, puede ser cualquier archivo con código en C#) y escribe la palabra `fact`. Verás que visual Studio Code mostrará un montón de sugerencias para autocompletar, con el snippet que recién agregamos como primera opción:
 
 
-{% include video-player.html url="/assets/vscode-snippet-fact-template.mov" width=708 height=286 %}
+{% include video-player.html url="/assets/video/vscode-snippet-fact-template.mov" width=708 height=286 %}
 
 
 Ahora empieza la diversión. Arriba mencioné que este snippet sigue una convención específica para nombrar una prueba, que consta de 3 partes. En cuanto el snippet se inserta en el editor, puedes cambiar los valores para `Method`, `Scenario` y `Result` posando el cursor sobre ellos sólo presionando la tecla `Tab`. Lo mismo aplica para las secciones `arrange`, `act` y `assert`.
